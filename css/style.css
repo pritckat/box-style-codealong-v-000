@@ -246,6 +246,11 @@ header {
   background: #333;
   color: white;
 }
+
+#navbar nav a:hover {
+  background: #ccc;
+  color: white;
+}
 /*////////// LOGO //////////*/
 
 
